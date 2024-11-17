@@ -1,11 +1,6 @@
-import 'dart:convert';
-import 'dart:math';
-import 'dart:typed_data';
-
 import 'package:demo_map/data/data.dart';
 import 'package:demo_map/view/home/model/open_route_service_response.dart';
 import 'package:flutter/material.dart';
-import 'package:flutter/services.dart';
 import 'package:geolocator/geolocator.dart';
 import 'package:maplibre_gl/maplibre_gl.dart';
 
